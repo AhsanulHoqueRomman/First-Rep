@@ -1,3 +1,3 @@
 # First-Rep
 
-This is my first gihub repo
+This is my first github repo
